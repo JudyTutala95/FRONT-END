@@ -16,4 +16,3 @@ Så här kör du applikationen
 
  - cd my-app
  - ng server --open
-
