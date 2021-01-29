@@ -15,4 +15,4 @@ För att skapa en arbetsplat måste måste du ange följande kommando
 Så här kör du applikationen 
 
  - cd my-app
- - ng server --open
+ - ng serve
